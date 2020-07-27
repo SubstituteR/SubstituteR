@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hi there 👋
+## Current Projects
+### ArkServerAPI-Template
+A simple clone-to-compile template and example plugin for the Ark Server API.
+### PBBGject
+An extremely early WIP project to add more color palettes to the game Phantom Breaker Battle Grounds.
 <!--
 **SubstituteR/SubstituteR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
