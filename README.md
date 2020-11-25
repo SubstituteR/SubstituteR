@@ -4,6 +4,8 @@
 A simple clone-to-compile template and example plugin for the Ark Server API.
 ### PBBGject
 An extremely early WIP project to add more color palettes to the game Phantom Breaker Battle Grounds.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SubstituteR)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SubstituteR/SubstituteR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
