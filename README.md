@@ -2,8 +2,8 @@
 Fullstack developer, from x86 to JavaScript
 ## Current Projects
 
-### [GEVOStats](https://github.com/GEVOStats)
-A stat tracker for Gundam Battle Evolution!
+### [MoarPTR](https://github.com/SubstituteR/MoarPtr)
+MoarPtr is a header-only library that adds support for new types of idiomatic pointers.
 
 ### [Ark Server API](https://github.com/ServersHub/Framework-ArkServerApi)
 Working on implementing a new api loader and revamping the programming interfaces available to plugin developers.
