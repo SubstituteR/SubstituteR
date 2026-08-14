@@ -14,6 +14,6 @@ A simple clone-to-compile template and example plugin for the Ark Server API.
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SubstituteR&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubstituteR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=SubstituteR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's github stats](https://github-stats-extended.vercel.app/api?username=SubstituteR&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
